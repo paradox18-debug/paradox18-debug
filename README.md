@@ -36,7 +36,7 @@ and then regretting it later...😂
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### 📚 Class XII Strengths
-![BIOLOGY](https://img.shields.io/badge/Data%20Structures-00599C?style=for-the-badge)
+![BIOLOGY](https://img.shields.io/badge/BIOLOGY%20-00599C?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/sql-1E88E5?style=for-the-badge)
 ![PYTHON](https://img.shields.io/badge/Python-FF5722?style=for-the-badge)
 
