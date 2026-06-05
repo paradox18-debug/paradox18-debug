@@ -1,12 +1,12 @@
 # 💫 About Me:
 ## 👋 Hello everyone, Kartik this side!
 
-I am currently in Class XII appearing from **Science Stream **.  
+I am currently in Class XII appearing from **Science Stream (PCB)**.  
 I aspire to become a **Cybersecurity Engineer** in a reputed company.
 
 ### 🚀 More about me: 
-- 🌱 I am currently learning programming languages such as **Python, HTML,CSS etc**  
-- 💻 Strengthening my skills in **Video Editing and Web Development.**  
+- 🌱 I am currently learning different programming languages such as **Python, HTML,CSS etc**  
+- 💻 Strengthening my skills in **Video Editing,Web Development and CyberSecurity.**  
 
 ### 🤝 Looking For: 
 ● Guidance from experienced professionals on **what more I should learn and improve**<br>
@@ -18,7 +18,7 @@ I aspire to become a **Cybersecurity Engineer** in a reputed company.
 or share your experiences from student or professional life — I would love to learn from you 😊
 
 ### 😄 Fun Fact
-● My guilty pleasure is watching ** long thriller-based web series** on online platforms…  
+● My guilty pleasure is watching **Long thriller-based web series** on online platforms…  
 and then regretting it later...😂
 
 ## 🌐 Socials:
