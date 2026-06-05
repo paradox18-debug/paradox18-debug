@@ -27,7 +27,7 @@ and then regretting it later...😂
 ## 🛠️ Tech Stack/Skills
 
 ### 💻 Programming Languages
-![SQL](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=SQL&logoColor=white)
+![SQl](https://img.shields.io/badge/sql-1E88E5?style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🌐 Frontend
@@ -37,7 +37,7 @@ and then regretting it later...😂
 
 ### 📚 Class XII Strengths
 ![BIOLOGY](https://img.shields.io/badge/Data%20Structures-00599C?style=for-the-badge)
-![SQl](https://img.shields.io/badge/sql-1E88E5?style=for-the-badge)
+![SQL](https://img.shields.io/badge/sql-1E88E5?style=for-the-badge)
 ![PYTHON](https://img.shields.io/badge/Python-FF5722?style=for-the-badge)
 
 ### 💬 Open for:
