@@ -24,7 +24,7 @@ and then regretting it later...😂
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shuklakartik1983@gmail.com) 
 
-## 🛠️ Tech Stack/Skills
+## 🛠️ Skills
 
 ### 💻 Programming Languages
 ![SQl](https://img.shields.io/badge/sql-1E88E5?style=for-the-badge)
