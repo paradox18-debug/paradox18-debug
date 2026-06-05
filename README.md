@@ -27,7 +27,7 @@ and then regretting it later...😂
 ## 🛠️ Tech Stack/Skills
 
 ### 💻 Programming Languages
-![SQL](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=SQL&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🌐 Frontend
